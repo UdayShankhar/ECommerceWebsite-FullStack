@@ -1,0 +1,109 @@
+#experience{
+    padding-top: 80px;
+}
+
+.experience-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
+
+.experience-first{
+        border: 0.5px solid rgb(128, 100, 255);
+}
+
+.experience-first>h3{
+    text-align: center;
+        font-size: 24px;
+        color: var(--color-primary);
+        
+}
+
+.experience-second>h3{
+    text-align: center;
+    font-size: 24px;
+    color: var(--color-primary);
+}
+
+.experience-first>h5{
+    text-align: center;
+    font-size: 18px;
+color: wheat;
+}
+
+.experience-second>h5{
+    text-align: center;
+        font-size: 18px;
+color: wheat;
+}
+
+.experience-first>p{
+color: grey;
+margin-top: 20px;
+}
+
+.experience-second>p{
+    color: grey;
+margin-top: 20px;
+}
+
+.experience-first .desc-list{
+    margin-top: 14px;
+    color: rgb(196, 190, 190);
+list-style: disc !important;
+}
+
+.experience-second .desc-list{
+    margin-top: 14px;
+    color: rgb(196, 190, 190);
+list-style: disc !important;
+}
+
+.experience-container > div{
+    background: var(--color-bg-variant);
+    padding: 2.4rem 5rem;
+    border-radius: 2rem;
+    border: 0.5px solid rgb(128, 100, 255);
+    transition: var(--transition);
+}
+
+.experience-container > div:hover{
+    background: transparent;
+    border-color: var(--color-primary);
+    cursor: default;
+}
+
+@media screen and (max-width:1285px) {
+    #experience h2{
+        padding-top: 200px;
+    }
+}
+
+@media screen and (max-width:1024px) {
+
+    .experience-container{
+        display: flex;
+        flex-direction: column;
+        width: 60%;
+        padding-left: 10px;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .experience-container{
+        gap: 1rem;
+    }
+
+    .experience-container>div{
+        width: 110%;
+        padding: 2rem 1rem;
+    }
+
+    .experience-first .desc-list{
+        list-style: none !important;
+    }
+
+    .experience-second .desc-list{
+        list-style: none !important;
+    }
+}
