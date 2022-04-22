@@ -31,7 +31,7 @@ function Myportd() {
                     <p className='project-title'>Full Stack E-Commerce Application</p>
                     <div style={{ display: 'flex' }} >
 
-                        <a href='https://github.com/UdayShankhar/FullStack-Ecommerce' target= "_blank" style={{marginLeft:'125px',marginTop:'38px'}}>GITHUB
+                        <a href='https://github.com/UdayShankhar/ECommerce-FullStack' target= "_blank" style={{marginLeft:'125px',marginTop:'38px'}}>GITHUB
                         </a>
 
                         {/* <a href='https://github.com/UdayShankhar/FullStack-Ecommerce' target="_blank" style={{ marginLeft: '46px', marginTop: '38px' }}>PROJECT DEMO
@@ -84,7 +84,7 @@ function Myportd() {
                         <a href='https://github.com/UdayShankhar/Weather-application' target="_blank" style={{ marginLeft: '50px', marginTop: '38px' }}>GITHUB
                         </a>
 
-                        <a href='https://62616ae1d8391c780a26503a--benevolent-quokka-5829c1.netlify.app/' target="_blank" style={{ marginLeft: '46px', marginTop: '38px' }}>PROJECT DEMO
+                        <a href='https://6262bbde30d4ac32856a8ec2--unrivaled-madeleine-c7980a.netlify.app/' target="_blank" style={{ marginLeft: '46px', marginTop: '38px' }}>PROJECT DEMO
                         </a>
                     </div>
                 </article>
@@ -162,14 +162,11 @@ function Myportd() {
                 </article>
 
                 <article className='chat'>
-                    <img className='project-img' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh3mnaqRDIRoUQvZLz4NqXIHfjWpNU5dCk-A&usqp=CAU' alt='' />
-                    <p className='project-title'>Sign up page using React-formik</p>
+                    <p className='project-title' style={{display:'flex',justifyContent:'center',alignItems:'center',marginTop:'130px',fontSize:'26px'}}  >& many more</p>
                     <div style={{ display: 'flex' }} >
-                        <a href='https://github.com/UdayShankhar/React-Formik' target="_blank" style={{ marginLeft: '50px', marginTop: '38px' }}>GITHUB
+                        <a href='https://github.com/UdayShankhar?tab=repositories' target="_blank" style={{ marginLeft: '125px', marginTop: '28px' }}>GITHUB
                         </a>
 
-                        <a href='https://6228cb392ce56700a602e37d--goofy-agnesi-fcae1c.netlify.app/' target="_blank" style={{ marginLeft: '46px', marginTop: '38px' }}>PROJECT DEMO
-                        </a>
                     </div>
                 </article>              
 </div>
@@ -221,7 +218,7 @@ function Myportd() {
                         <a href='https://github.com/UdayShankhar/Hackathon-YT-Clone' target="_blank" style={{ marginLeft: '50px', marginTop: '38px' }}>GITHUB
                         </a>
 
-                        <a href='https://6262480aa81b452f5f85d51f--brilliant-cactus-b1b923.netlify.app/' target="_blank" style={{ marginLeft: '46px', marginTop: '38px' }}>PROJECT DEMO
+                        <a href='https://6262b990dafa2c3228e038ef--dulcet-rabanadas-a0d656.netlify.app/' target="_blank" style={{ marginLeft: '46px', marginTop: '38px' }}>PROJECT DEMO
                         </a>
                     </div>
                 </article> 
