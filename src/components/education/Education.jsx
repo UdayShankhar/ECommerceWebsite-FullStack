@@ -31,7 +31,7 @@ function Education() {
             <p>Maharishi Vidya Mandir</p>
             <ul>
               <li>Marks Obtained : 783</li>
-              <li>Percentage : 65.25%</li>
+              <li>Percentage : 68%</li>
             </ul>
           </article>
         </div>

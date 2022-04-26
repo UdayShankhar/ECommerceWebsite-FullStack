@@ -12,7 +12,7 @@ function Experience() {
           <h5>September 2020 - August 2021</h5>
           <p>Job Description</p>
           <ul className='desc-list'>
-            <li>Designed and Developed 15+ AutoCAD projects </li>
+            <li>Designed 15+ AutoCAD projects for our MNC clients</li>
             <li>Developed various HMI interface for our overseas clients </li>
             <li>Worked as a PLC programmer for various projects</li>
           </ul>

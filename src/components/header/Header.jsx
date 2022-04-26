@@ -9,8 +9,8 @@ function Header() {
     <header>
       <div className='container header__container'>
         <h2>Hi I'm</h2>
-        <h1 style={{letterSpacing:'1px',marginLeft:'12px'}}>Uday Shankhar</h1>
-        <h3 className='text-light'>FullStack Developer</h3>
+        <h1 style={{letterSpacing:'1px',marginLeft:'12px',fontSize:'50px'}}>Uday Shankhar</h1>
+        <h3 className='text-light' style={{fontSize:'26px',color:'wheat'}}>FullStack Developer</h3>
         <CTA/>
         <HeaderSocials/>
         <div className='me'>
