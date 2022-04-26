@@ -33,7 +33,7 @@ function About() {
             <article className='about__card'>
               <BsLaptop className='about-icon' />
               <h4 style={{ color: 'wheat' }}>Projects</h4>
-              <h>40+ Completed</h>
+              <h>45+ Completed</h>
             </article>
           </div>
           <p style={{fontSize:'20px'}}>

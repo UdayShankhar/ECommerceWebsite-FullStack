@@ -172,18 +172,18 @@ function Myportd() {
                 </article>
 
                 <article className='hotel-booking'>
-                    <img className='project-img' src='https://www.ezeeabsolute.com/blog/wp-content/uploads/2017/11/direct_booking.jpg' alt='' />
-                    <p className='project-title' style={{ textTransform: 'uppercase', marginTop: '16px', color: 'gold', fontSize: '20px' }}>hotel booking application</p>
+                    <img className='project-img' src='https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2019_33/2203981/171026-better-coffee-boost-se-329p.jpg' alt='' />
+                    <p className='project-title' style={{ textTransform: 'uppercase', marginTop: '16px', color: 'gold', fontSize: '20px' }}>COFFEE SHOP WEBSITE</p>
                     <ul className='post-details' style={{ display: 'flex', flexWrap: 'wrap' }}>
-                        <li>Designed a complete homepage of a hotel booking application</li>
-                        <li>The application allows users to browse various vacation spots and their estimated prices</li>
+                        <li>Designed a website for a coffee shop from scratch using HTML5, CSS3 and JavaScript</li>
+                        <li>The application allows users to browse coffee types and the cafe gallery</li>
                     </ul>
                     <div style={{ display: 'flex' }}>
-                        <a href='https://github.com/UdayShankhar/HotelBooking-Application' target="_blank" style={{ marginLeft: '60px', marginTop: '16px', fontSize: '20px' }}>
+                        <a href='https://github.com/UdayShankhar/coffee-shop' target="_blank" style={{ marginLeft: '60px', marginTop: '16px', fontSize: '20px' }}>
                             GITHUB<span><GitHubIcon style={{ marginLeft: '6px', fontSize: '16px', marginTop: '2px' }} /></span>
                         </a>
 
-                        <a href='https://626766d3b2ce5d3c52e9e4e7--boisterous-cajeta-868494.netlify.app/' target="_blank" style={{ marginLeft: '30px', marginTop: '16px', fontSize: '20px' }}>
+                        <a href='https://626442bb7fb7376dc590ac10--thriving-pixie-caa2fa.netlify.app/' target="_blank" style={{ marginLeft: '30px', marginTop: '16px', fontSize: '20px' }}>
                             WEBSITE<span><LanguageIcon style={{ marginLeft: '6px', fontSize: '16px', marginTop: '2px' }} /></span>
                         </a>
                     </div>
@@ -211,7 +211,7 @@ function Myportd() {
                     <img className='project-img' src='https://miro.medium.com/max/1000/1*fpW1jv595xjp0G1LiaLEjQ.jpeg' alt='' />
                     <p className='project-title' style={{ textTransform: 'uppercase', marginTop: '16px', color: 'gold', fontSize: '20px' }}>SWIGGY website</p>
                     <ul className='post-details' style={{ display: 'flex', flexWrap: 'wrap' }}>
-                        <li>Designed Swiggy's homepage of website using React JS CRUD operation</li>
+                        <li>Designed Swiggy's homepage of website using React JS</li>
                         <li>The application allows users to browse restaurants and on-going offers</li>
                     </ul>
                     <div style={{ display: 'flex' }}>

@@ -43,7 +43,7 @@ function NewSkills() {
                       </li>
                       <li>
                           <FiCheckCircle className='service__list-icon' />
-                          <span>REST</span>
+                          <span>HTTP & REST API</span>
                       </li>
                       <li>
                           <FiCheckCircle className='service__list-icon' />
