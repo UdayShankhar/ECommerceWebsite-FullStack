@@ -10,7 +10,7 @@ function Education() {
       <img src={education} alt='' />
       <div className='edu-details'>
         {/* <h4 id='page-title'>My Qualifications</h4> */}
-        <h3 className='my-qual'>My Qualifications</h3>
+        <h3 className='my-qual'>Qualifications</h3>
         {/* <div className='ed-det'>
 <h2 className='vertical'></h2>
         </div> */}
